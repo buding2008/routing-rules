@@ -1,0 +1,18 @@
+{
+  "name": "Personal App Icons",
+  "description": "buding2008 · Manus / Muse / Grok",
+  "icons": [
+    {
+      "name": "Manus",
+      "url": "https://raw.githubusercontent.com/buding2008/routing-rules/main/icons/apps/Manus.png"
+    },
+    {
+      "name": "Muse",
+      "url": "https://raw.githubusercontent.com/buding2008/routing-rules/main/icons/apps/Muse.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/buding2008/routing-rules/main/icons/apps/Grok.png"
+    }
+  ]
+}

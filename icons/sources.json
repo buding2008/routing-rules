@@ -1,0 +1,32 @@
+{
+  "updated": "2026-10-12",
+  "icons": [
+    {
+      "name": "Manus",
+      "file": "apps/Manus.png",
+      "source_url": "https://manus.im/icon.png",
+      "source_page": "https://manus.im/",
+      "processing": "Original PNG, unchanged",
+      "sha256": "1a0bccf04fcd912c4099e6a59d57263278264d079959722a03b39d427242cfb5",
+      "rights": "Brand artwork belongs to the respective rights holders; no open-source license is asserted."
+    },
+    {
+      "name": "Muse",
+      "file": "apps/Muse.png",
+      "source_url": "https://muse.ai/favicon.ico",
+      "source_page": "https://muse.ai/",
+      "processing": "ICO to PNG format conversion",
+      "sha256": "0a017a41b4c5adbe4ad2f5dacbc418261620f0596e9dfe30b2b42ce6c23a8711",
+      "rights": "Brand artwork belongs to the respective rights holders; no open-source license is asserted."
+    },
+    {
+      "name": "Grok",
+      "file": "apps/Grok.png",
+      "source_url": "https://grok.com/images/android-chrome-512x512.png",
+      "source_page": "https://grok.com/",
+      "processing": "Original PNG, unchanged",
+      "sha256": "3a462c3c2524733c173bb05c431de737812f8219db8fa115b0025d12a347e086",
+      "rights": "Brand artwork belongs to the respective rights holders; no open-source license is asserted."
+    }
+  ]
+}

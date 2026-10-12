@@ -34,3 +34,13 @@ https://raw.githubusercontent.com/buding2008/routing-rules/main/QuantumultX/Grok
 - 格式：[Quantumult X 官方示例](https://github.com/crossutility/Quantumult-X/blob/master/sample.conf)
 
 本仓库独立维护，不属于 blackmatrix7 项目。不包含服务器资料、节点凭据或二维码。
+
+## 应用图标
+
+配套图标和分流规则放在同一个仓库，独立维护。现有 Manus、Muse、Grok 三个图标，来源和使用方式见 [图标说明](icons/README.md)。
+
+圈 X 长按节点或策略组 → 图标 →「+」，导入：
+
+```text
+https://raw.githubusercontent.com/buding2008/routing-rules/main/icons/filter-icon.json
+```
