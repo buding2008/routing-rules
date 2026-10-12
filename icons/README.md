@@ -17,13 +17,13 @@ https://raw.githubusercontent.com/buding2008/routing-rules/main/icons/filter-ico
 | 名称 | 预览 | 尺寸 |
 | --- | --- | --- |
 | Manus | ![Manus](apps/Manus.png) | 512×512 |
-| Muse | ![Muse](apps/Muse.png) | 128×128 |
+| Muse | ![Muse](apps/Muse.png) | 512×512 |
 | Grok | ![Grok](apps/Grok.png) | 512×512 |
 
 ## 维护
 
 图片放在 `apps/应用名.png`；在 `filter-icon.json` 增加相同名称和图片直链；在 `sources.json` 记录官方来源、获取日期、处理方式和文件摘要。使用标准 JSON，最后一个条目不加逗号。已存在的图片路径保持稳定。
 
-图片来自各应用官网，Muse 仅从 ICO 转换为 PNG；未重绘品牌标志。品牌图形权益属于各自权利人，此处不声明它们采用开源许可。
+图片来自各应用官网，Muse 从官方 SVG 矢量图渲染为 512×512 PNG（白色背景）；未重绘品牌标志。品牌图形权益属于各自权利人，此处不声明它们采用开源许可。
 
 图标索引结构参考 [fanmingming/Rules](https://github.com/fanmingming/Rules) 和 [erdongchanyo/icon](https://github.com/erdongchanyo/icon)。尚未在用户的圈 X 客户端实际验证显示效果。

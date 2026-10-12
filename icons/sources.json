@@ -13,10 +13,10 @@
     {
       "name": "Muse",
       "file": "apps/Muse.png",
-      "source_url": "https://muse.ai/favicon.ico",
+      "source_url": "https://muse.ai/images/favicon/app-squiggle.svg",
       "source_page": "https://muse.ai/",
-      "processing": "ICO to PNG format conversion",
-      "sha256": "0a017a41b4c5adbe4ad2f5dacbc418261620f0596e9dfe30b2b42ce6c23a8711",
+      "processing": "Official SVG rendered at 512x512 with white background; original vector paths and colors retained",
+      "sha256": "8578bb7cba3a23e28ed8cea6db14c913be8fcebf071e9d44e5d0fd5d748dfab8",
       "rights": "Brand artwork belongs to the respective rights holders; no open-source license is asserted."
     },
     {
