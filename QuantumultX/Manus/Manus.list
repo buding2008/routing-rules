@@ -1,0 +1,10 @@
+# NAME: Manus
+# AUTHOR: buding2008
+# UPDATED: 2026-10-12
+# STATUS: Initial rules; runtime coverage not yet verified
+# SOURCE: https://manus.im/
+# SOURCE: https://open.manus.ai/
+# HOST-SUFFIX includes the domain itself and all its subdomains.
+# Third-party dependencies require client request-log verification.
+HOST-SUFFIX,manus.im,Manus
+HOST-SUFFIX,manus.ai,Manus
