@@ -1,0 +1,8 @@
+# NAME: Muse
+# AUTHOR: buding2008
+# UPDATED: 2026-10-12
+# STATUS: Initial rules; runtime coverage not yet verified
+# SOURCE: https://muse.ai/
+# Includes auth.muse.ai and other subdomains.
+# Third-party dependencies require client request-log verification.
+HOST-SUFFIX,muse.ai,Muse
