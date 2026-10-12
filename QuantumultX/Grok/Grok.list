@@ -1,0 +1,9 @@
+# NAME: Grok
+# AUTHOR: buding2008
+# UPDATED: 2026-10-12
+# STATUS: Initial rules; runtime coverage not yet verified
+# SOURCE: https://grok.com/
+# SOURCE: https://x.ai/
+# Grok inside X also requires separate X/Twitter routing rules.
+HOST-SUFFIX,grok.com,Grok
+HOST-SUFFIX,x.ai,Grok
