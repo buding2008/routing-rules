@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/buding2008/routing-rules/main/QuantumultX/Grok
 - Grok：[官网](https://grok.com/)、[xAI](https://x.ai/)
 - 格式：[Quantumult X 官方示例](https://github.com/crossutility/Quantumult-X/blob/master/sample.conf)
 
-本仓库独立维护，不属于 blackmatrix7 项目。不包含服务器资料、节点凭据或二维码。
+本仓库独立维护。不包含服务器资料、节点凭据或二维码。
 
 ## 应用图标
 
