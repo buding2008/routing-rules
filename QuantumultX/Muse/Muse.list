@@ -1,8 +1,19 @@
 # NAME: Muse
 # AUTHOR: buding2008
-# UPDATED: 2026-10-12
-# STATUS: Initial rules; runtime coverage not yet verified
-# SOURCE: https://muse.ai/
-# Includes auth.muse.ai and other subdomains.
-# Third-party dependencies require client request-log verification.
+# UPDATED: 2026-10-24
+# STATUS: Official frontend dependency audit; authenticated traffic coverage not yet verified
+# SOURCE: https://muse.ai/ and its publicly served /_next/static/chunks/ scripts
+# Routing does not grant regional availability or account access.
+# Main site and product service domains
 HOST-SUFFIX,muse.ai,Muse
+HOST-SUFFIX,museai.com,Muse
+# Meta OIDC login; includes numbered *.od.auth.meta.com origins
+HOST-SUFFIX,auth.meta.com,Muse
+# Product and SSO origins declared by the official frontend
+HOST,agent.meta.ai,Muse
+HOST,hatch.meta.ai,Muse
+HOST,hatch.ecto1.ai,Muse
+HOST-SUFFIX,hatch.club,Muse
+# OHTTP configuration and relay endpoints declared by the frontend
+HOST,meta-ohttp-config-prod.fastly-edge.com,Muse
+HOST,meta-ohttp-relay-prod.fastly-edge.com,Muse
