@@ -1,0 +1,69 @@
+# NAME: Meta
+# AUTHOR: buding2008
+# UPDATED: 2026-10-24
+# STATUS: Curated major Meta services; client coverage not yet verified
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data
+# SOURCE: https://muse.ai/ (official frontend service origins)
+# Upstream attribution and MIT license: see THIRD_PARTY_LICENSES.md
+# Covers Meta, Facebook, Instagram, Messenger, Threads, WhatsApp, Oculus and Muse.
+# Does not include all defensive/typo domains or developer tooling.
+# Keep Muse before Meta when separate policies are desired.
+HOST-SUFFIX,aboutfacebook.com,Meta
+HOST-SUFFIX,accountkit.com,Meta
+HOST-SUFFIX,atmeta.com,Meta
+HOST-SUFFIX,cdninstagram.com,Meta
+HOST-SUFFIX,facebook.com,Meta
+HOST-SUFFIX,facebook.design,Meta
+HOST-SUFFIX,facebook.net,Meta
+HOST-SUFFIX,facebook.org,Meta
+HOST-SUFFIX,facebookblueprint.net,Meta
+HOST-SUFFIX,facebookbrand.com,Meta
+HOST-SUFFIX,facebookconnect.com,Meta
+HOST-SUFFIX,facebookemail.com,Meta
+HOST-SUFFIX,facebookmail.com,Meta
+HOST-SUFFIX,facebookmarketingpartners.com,Meta
+HOST-SUFFIX,facebookpay.com,Meta
+HOST-SUFFIX,facebookwork.com,Meta
+HOST-SUFFIX,fb.com,Meta
+HOST-SUFFIX,fb.gg,Meta
+HOST-SUFFIX,fb.me,Meta
+HOST-SUFFIX,fb.watch,Meta
+HOST-SUFFIX,fbcdn.com,Meta
+HOST-SUFFIX,fbcdn.net,Meta
+HOST-SUFFIX,fbmessenger.com,Meta
+HOST-SUFFIX,fbsbx.com,Meta
+HOST-SUFFIX,fbsbx.net,Meta
+HOST-SUFFIX,fburl.com,Meta
+HOST-SUFFIX,fbwat.ch,Meta
+HOST-SUFFIX,hatch.club,Meta
+HOST-SUFFIX,ig.me,Meta
+HOST-SUFFIX,igcdn.com,Meta
+HOST-SUFFIX,igsonar.com,Meta
+HOST-SUFFIX,igtv.com,Meta
+HOST-SUFFIX,instagram.com,Meta
+HOST-SUFFIX,llama.com,Meta
+HOST-SUFFIX,m.me,Meta
+HOST-SUFFIX,messenger.com,Meta
+HOST-SUFFIX,meta.ai,Meta
+HOST-SUFFIX,meta.com,Meta
+HOST-SUFFIX,metaaivm.com,Meta
+HOST-SUFFIX,muse.ai,Meta
+HOST-SUFFIX,museai.com,Meta
+HOST-SUFFIX,ocul.us,Meta
+HOST-SUFFIX,oculus.com,Meta
+HOST-SUFFIX,oculuscdn.com,Meta
+HOST-SUFFIX,oculusforbusiness.com,Meta
+HOST-SUFFIX,oculusvr.com,Meta
+HOST-SUFFIX,tfbnw.net,Meta
+HOST-SUFFIX,threads.com,Meta
+HOST-SUFFIX,threads.net,Meta
+HOST-SUFFIX,wa.me,Meta
+HOST-SUFFIX,whatsapp.com,Meta
+HOST-SUFFIX,whatsapp.net,Meta
+HOST-SUFFIX,whatsapp.org,Meta
+HOST-SUFFIX,whatsappbrand.com,Meta
+HOST-SUFFIX,workplace.com,Meta
+HOST,fbcdn-a.akamaihd.net,Meta
+HOST,hatch.ecto1.ai,Meta
+HOST,meta-ohttp-config-prod.fastly-edge.com,Meta
+HOST,meta-ohttp-relay-prod.fastly-edge.com,Meta
